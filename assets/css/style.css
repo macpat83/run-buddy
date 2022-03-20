@@ -271,3 +271,17 @@ section{
 }
 
 /* reach out styles end */
+
+/* homepage hero
+.hero {
+    margin: 20px;
+    background-color: white;
+    font-size: 20px;
+    color: blue;
+}
+
+/* these two colors will override the ones above in .hero 
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
